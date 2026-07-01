@@ -1,0 +1,8 @@
+product_id,name,category,price,quantity
+P001,Laptop,Electronics,999.99,5
+P002,Mouse,Electronics,29.99,50
+P003,Desk,Furniture,199.99,10
+P004,Chair,Furniture,149.99,20
+P005,Monitor,Electronics,299.99,15
+P006,Keyboard,Electronics,79.99,30
+P007,Lamp,Furniture,49.99,25
