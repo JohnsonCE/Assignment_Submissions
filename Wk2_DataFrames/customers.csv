@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,city
+1001,Alice,Johnson,alice.johnson@example.com,Seattle
+1002,Bob,Smith,bob.smith@example.com,Chicago
+1003,Carol,Davis,carol.davis@example.com,Dallas
+1004,David,Wilson,david.wilson@example.com,Boston
+1005,Emma,Brown,emma.brown@example.com,Denver
+1006,Frank,Miller,frank.miller@example.com,Atlanta
+1007,Grace,Moore,grace.moore@example.com,Phoenix
+1008,Henry,Taylor,henry.taylor@example.com,Miami
+1009,Ivy,Anderson,ivy.anderson@example.com,Portland
+1010,Jack,Thomas,jack.thomas@example.com,Detroit
+1011,Karen,White,karen.white@example.com,Austin
+1012,Liam,Harris,liam.harris@example.com,San Diego
+1013,Mia,Martin,mia.martin@example.com,Charlotte
+1014,Noah,Thompson,noah.thompson@example.com,Minneapolis
+1015,Olivia,Garcia,olivia.garcia@example.com,Nashville
