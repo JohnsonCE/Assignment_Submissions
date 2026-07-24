@@ -1,0 +1,23 @@
+customer_id,first_name,last_name,email,phone,signup_date,country,state,postal_code,is_active,loyalty_points
+1001,John,Smith,john.smith@gmail.com,6125551001,2023-01-15,USA,MN,55401,TRUE,145
+1002,Jane,Doe,jane.doe@yahoo.com,(612)555-2222,2023/02/20,United States,Minnesota,55402,Yes,210
+1003,Bob,Johnson,bobjohnsonhotmail.com,6125553333,15-03-2023,US,MN,55403,1,95
+1004,Alice,Williams,alice@gmail.com,,2023-04-01,USA,MN,55404,TRUE,
+1005,Michael,Brown,michael@@gmail.com,6125555555,2023-04-31,USA,MN,55405,FALSE,310
+1006,Sarah,Davis,sarah.davis@gmail.com,612-555-6666,2023-05-14,Canada,ON,M5V3A8,true,510
+1007,David,Miller,david@gmail.com,abc123,2023-06-01,USA,WI,53703,false,0
+1008,Emily,Wilson,emily@gmail.com,+1 612 555 8888,2023-06-12,USA,MN,55408,Y,85
+1009,Chris,Moore,chris@gmail,6125559999,2023-13-01,USA,MN,55409,N,120
+1010,Amanda,Taylor,amanda@gmail.com,6125551010,2023-07-10,Mexico,CMX,01000,TRUE,75
+1011, James , Anderson , james@gmail.com ,6125551011,2023-07-11,USA,MN,55411,TRUE,500
+1012,Lisa,Thomas,NULL,6125551012,2023-08-15,USA,MN,55412,TRUE,100
+1013,Daniel,Jackson,daniel@gmail.com,NULL,2023-08-20,USA,MN,55413,FALSE,90
+1014,Jennifer,White,jennifer@gmail.com,6125551014,N/A,USA,MN,55414,TRUE,1000
+1015,Matthew,Harris,matthew@gmail.com,6125551015,2023-09-05,USA,MN,,TRUE,-10
+1016,Jessica,Martin,jessica@gmail.com,6125551016,2023-09-08,USA,MN,55416,TRUE,999999
+1017,Robert,Thompson,robert@gmail.com,6125551017,2023-09-09,USA,mn,55417,true,350
+1018,Karen,Garcia,karen@gmail.com,6125551018,2023-09-15,U.S.A.,MN,55418,False,120
+1019,Kevin,Martinez,kevin@gmail.com,6125551019,2023-10-01,USA,MN,55419,No,50
+1020,Ashley,Robinson,ashley@gmail.com,6125551020,2023-10-11,USA,MN,55420,TRUE,140
+1020,Ashley,Robinson,ashley@gmail.com,6125551020,2023-10-11,USA,MN,55420,TRUE,140
+XYZ,Invalid,Customer,bademail,555,notadate,USA,MN,ABCDE,maybe,abc
